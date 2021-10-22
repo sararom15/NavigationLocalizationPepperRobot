@@ -1,0 +1,6 @@
+tk
+opencv-python==4.2.0.32
+opencv-contrib-python==4.2.0.32
+matplotlib
+wheel==0.33.6
+vision_definitions
